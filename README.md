@@ -1,5 +1,7 @@
 # principles-of-structuring-state
 
+![star_highlight](https://user-images.githubusercontent.com/85868026/211008314-18c91483-5e0b-43fd-94b4-b239eb3a2cd6.png)
+
 In this read, I learnt:
 
 - that a component whose state is well structured is easier to debug
